@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{96D11692-12E9-469B-B375-71BA5921BC67}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BackJack</RootNamespace>
+    <AssemblyName>BlackJack</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>BlackjackAlt2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bet.cs" />
+    <Compile Include="CardDrawing.cs" />
+    <Compile Include="Dealer.cs" />
+    <Compile Include="DrawCardType.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameResult.cs" />
+    <Compile Include="ImageRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ImageRes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CardHand.cs" />
+    <Compile Include="PairState.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageRes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ImageRes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CardLib\CardLib.csproj">
+      <Project>{48D936F3-B3AC-4CEA-B9D4-7EBCADE627D5}</Project>
+      <Name>CardLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JackClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JackDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JackHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JackSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KingClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KingDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KingHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KingSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NightDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NightHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NightSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueenClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueenDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueenHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueenSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoDiamond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoHeart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoSpade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BJTable.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BJtableSky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BJtableSky1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NightClub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playing.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player1_back_ddown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player1_back_hit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player1_back_stand.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BlackjackAlt2.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

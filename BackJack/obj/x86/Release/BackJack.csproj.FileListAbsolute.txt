@@ -1,0 +1,12 @@
+D:\Casino\CardLib\BackJack\bin\Release\BackJack.exe
+D:\Casino\CardLib\BackJack\bin\Release\BackJack.pdb
+D:\Casino\CardLib\BackJack\bin\Release\CardLib.dll
+D:\Casino\CardLib\BackJack\bin\Release\CardLib.pdb
+D:\Casino\CardLib\BackJack\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Casino\CardLib\BackJack\obj\x86\Release\BackJack.BlackJackForm.resources
+D:\Casino\CardLib\BackJack\obj\x86\Release\BackJack.ImageRes.resources
+D:\Casino\CardLib\BackJack\obj\x86\Release\BackJack.Properties.Resources.resources
+D:\Casino\CardLib\BackJack\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Casino\CardLib\BackJack\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Casino\CardLib\BackJack\obj\x86\Release\BackJack.exe
+D:\Casino\CardLib\BackJack\obj\x86\Release\BackJack.pdb

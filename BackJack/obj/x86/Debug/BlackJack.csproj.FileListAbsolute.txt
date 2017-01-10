@@ -1,0 +1,34 @@
+D:\Casino\CardLib\BackJack\bin\Debug\CardLib.dll
+D:\Casino\CardLib\BackJack\bin\Debug\CardLib.pdb
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.BlackJackForm.resources
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.ImageRes.resources
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.Properties.Resources.resources
+D:\Casino\CardLib\BackJack\bin\Debug\BlackJack.exe
+D:\Casino\CardLib\BackJack\bin\Debug\BlackJack.pdb
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.exe
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.pdb
+D:\Cognitive Logistics\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.pdb
+D:\Cognitive Logistics\Casino\CardLib\BackJack\bin\Debug\BlackJack.exe
+D:\Cognitive Logistics\Casino\CardLib\BackJack\bin\Debug\BlackJack.pdb
+D:\Cognitive Logistics\Casino\CardLib\BackJack\bin\Debug\CardLib.dll
+D:\Cognitive Logistics\Casino\CardLib\BackJack\bin\Debug\CardLib.pdb
+D:\Cognitive Logistics\Casino\CardLib\BackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Cognitive Logistics\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.BlackJackForm.resources
+D:\Cognitive Logistics\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.ImageRes.resources
+D:\Cognitive Logistics\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.Properties.Resources.resources
+D:\Cognitive Logistics\Casino\CardLib\BackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Cognitive Logistics\Casino\CardLib\BackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Cognitive Logistics\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.exe
+D:\temp\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.exe
+D:\temp\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.pdb
+D:\temp\Casino\CardLib\BackJack\bin\Debug\BlackJack.exe
+D:\temp\Casino\CardLib\BackJack\bin\Debug\BlackJack.pdb
+D:\temp\Casino\CardLib\BackJack\bin\Debug\CardLib.dll
+D:\temp\Casino\CardLib\BackJack\bin\Debug\CardLib.pdb
+D:\temp\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.csprojResolveAssemblyReference.cache
+D:\temp\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.BlackJackForm.resources
+D:\temp\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.ImageRes.resources
+D:\temp\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.Properties.Resources.resources
+D:\temp\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.csproj.GenerateResource.Cache
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.csprojResolveAssemblyReference.cache
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BlackJack.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+D:\study\Casi\CardLib(with out CardDrawing class)\CardLib\bin\Debug\CardLib.dll
+D:\study\Casi\CardLib(with out CardDrawing class)\CardLib\bin\Debug\CardLib.pdb
+D:\study\Casi\CardLib(with out CardDrawing class)\CardLib\obj\Debug\ResolveAssemblyReference.cache
+D:\study\Casi\CardLib(with out CardDrawing class)\CardLib\obj\Debug\CardLib.dll
+D:\study\Casi\CardLib(with out CardDrawing class)\CardLib\obj\Debug\CardLib.pdb
+D:\Casino\CardLib\CardLib\bin\Debug\CardLib.dll
+D:\Casino\CardLib\CardLib\bin\Debug\CardLib.pdb
+D:\Casino\CardLib\CardLib\obj\Debug\CardLib.dll
+D:\Casino\CardLib\CardLib\obj\Debug\CardLib.pdb
+D:\Cognitive Logistics\Casino\CardLib\CardLib\bin\Debug\CardLib.dll
+D:\Cognitive Logistics\Casino\CardLib\CardLib\bin\Debug\CardLib.pdb
+D:\Cognitive Logistics\Casino\CardLib\CardLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Cognitive Logistics\Casino\CardLib\CardLib\obj\Debug\CardLib.dll
+D:\Cognitive Logistics\Casino\CardLib\CardLib\obj\Debug\CardLib.pdb
+D:\temp\Casino\CardLib\CardLib\bin\Debug\CardLib.dll
+D:\temp\Casino\CardLib\CardLib\bin\Debug\CardLib.pdb
+D:\temp\Casino\CardLib\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache
+D:\temp\Casino\CardLib\CardLib\obj\Debug\CardLib.dll
+D:\temp\Casino\CardLib\CardLib\obj\Debug\CardLib.pdb
+D:\Casino\CardLib\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache

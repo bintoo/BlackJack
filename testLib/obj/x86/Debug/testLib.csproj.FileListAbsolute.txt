@@ -1,0 +1,21 @@
+D:\study\Casi\CardLib(with out CardDrawing class)\testLib\bin\Debug\testLib.exe
+D:\study\Casi\CardLib(with out CardDrawing class)\testLib\bin\Debug\testLib.pdb
+D:\study\Casi\CardLib(with out CardDrawing class)\testLib\bin\Debug\CardLib.dll
+D:\study\Casi\CardLib(with out CardDrawing class)\testLib\bin\Debug\CardLib.pdb
+D:\study\Casi\CardLib(with out CardDrawing class)\testLib\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\study\Casi\CardLib(with out CardDrawing class)\testLib\obj\x86\Debug\testLib.exe
+D:\study\Casi\CardLib(with out CardDrawing class)\testLib\obj\x86\Debug\testLib.pdb
+D:\Casino\CardLib\testLib\bin\Debug\testLib.exe
+D:\Casino\CardLib\testLib\bin\Debug\testLib.pdb
+D:\Casino\CardLib\testLib\bin\Debug\CardLib.dll
+D:\Casino\CardLib\testLib\bin\Debug\CardLib.pdb
+D:\Casino\CardLib\testLib\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Casino\CardLib\testLib\obj\x86\Debug\testLib.exe
+D:\Casino\CardLib\testLib\obj\x86\Debug\testLib.pdb
+D:\Cognitive Logistics\Casino\CardLib\testLib\bin\Debug\testLib.exe
+D:\Cognitive Logistics\Casino\CardLib\testLib\bin\Debug\testLib.pdb
+D:\Cognitive Logistics\Casino\CardLib\testLib\bin\Debug\CardLib.dll
+D:\Cognitive Logistics\Casino\CardLib\testLib\bin\Debug\CardLib.pdb
+D:\Cognitive Logistics\Casino\CardLib\testLib\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Cognitive Logistics\Casino\CardLib\testLib\obj\x86\Debug\testLib.exe
+D:\Cognitive Logistics\Casino\CardLib\testLib\obj\x86\Debug\testLib.pdb

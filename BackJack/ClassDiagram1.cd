@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BackJack.Bet" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAABAgBAAQIAQAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Bet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackJack.CardHand" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IECIIABAACgAgAAIAASAIABAACAgBBAABRAQQCEgCAA=</HashCode>
+      <FileName>CardHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackJack.Dealer" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABBYAAAgBAAAAAAIABgJAIAQCAEAwoAAAAICAAog=</HashCode>
+      <FileName>Dealer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackJack.Drawing" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAQAAAAAABAAAAAgAAAAAAIAgA=</HashCode>
+      <FileName>Drawing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackJack.BlackJackForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gSBKABADATgIgC+AISDADAZKIgTJQABEsiyAAD0gcIA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackJack.ImageRes" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEDAEEIFIBS0obBAL4hGGYQARBBIA0ICFQALAEGAIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackJack.Program" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackJack.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAQAABAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackJack.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BackJack.DrawCardType" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>DrawCardType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BackJack.PairState" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAgAEAAAA=</HashCode>
+      <FileName>PairState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BackJack.GameResult">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAgAAAAgAAACAAAAAAABAA=</HashCode>
+      <FileName>GameResult.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="BackJack.OutPutValueHandler" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dealer.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BackJack.PlayerHandForcedStayHandler" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dealer.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BackJack.DisplayOptionsHandler" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Dealer.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BackJack.FinishHandHandler" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dealer.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

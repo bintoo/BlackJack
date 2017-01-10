@@ -1,0 +1,11 @@
+d:\Casino\CardLib\TestLibForm\bin\Debug\TestLibForm.exe
+d:\Casino\CardLib\TestLibForm\bin\Debug\TestLibForm.pdb
+d:\Casino\CardLib\TestLibForm\bin\Debug\CardLib.dll
+d:\Casino\CardLib\TestLibForm\bin\Debug\CardLib.pdb
+d:\Casino\CardLib\TestLibForm\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Casino\CardLib\TestLibForm\obj\x86\Debug\TestLibForm.Form1.resources
+d:\Casino\CardLib\TestLibForm\obj\x86\Debug\TestLibForm.Properties.Resources.resources
+d:\Casino\CardLib\TestLibForm\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\Casino\CardLib\TestLibForm\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\Casino\CardLib\TestLibForm\obj\x86\Debug\TestLibForm.exe
+d:\Casino\CardLib\TestLibForm\obj\x86\Debug\TestLibForm.pdb

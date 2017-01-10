@@ -1,0 +1,24 @@
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\obj\x86\Debug\BackJack.exe
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\obj\x86\Debug\BackJack.pdb
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\obj\x86\Debug\BackJack.BlackJackForm.resources
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\obj\x86\Debug\BackJack.ImageRes.resources
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\obj\x86\Debug\BackJack.Properties.Resources.resources
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\bin\Debug\BackJack.exe
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\bin\Debug\BackJack.pdb
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\bin\Debug\CardLib.dll
+D:\study\Casi\CardLib(with out CardDrawing class)\BackJack\bin\Debug\CardLib.pdb
+D:\Casino\CardLib\BackJack\bin\Debug\BackJack.exe
+D:\Casino\CardLib\BackJack\bin\Debug\BackJack.pdb
+D:\Casino\CardLib\BackJack\bin\Debug\CardLib.dll
+D:\Casino\CardLib\BackJack\bin\Debug\CardLib.pdb
+D:\Casino\CardLib\BackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.BlackJackForm.resources
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.ImageRes.resources
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.Properties.Resources.resources
+D:\Casino\CardLib\BackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Casino\CardLib\BackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.exe
+D:\Casino\CardLib\BackJack\obj\x86\Debug\BackJack.pdb

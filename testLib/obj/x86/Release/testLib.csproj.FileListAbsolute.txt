@@ -1,0 +1,7 @@
+D:\Casino\CardLib\testLib\bin\Release\testLib.exe
+D:\Casino\CardLib\testLib\bin\Release\testLib.pdb
+D:\Casino\CardLib\testLib\bin\Release\CardLib.dll
+D:\Casino\CardLib\testLib\bin\Release\CardLib.pdb
+D:\Casino\CardLib\testLib\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Casino\CardLib\testLib\obj\x86\Release\testLib.exe
+D:\Casino\CardLib\testLib\obj\x86\Release\testLib.pdb
